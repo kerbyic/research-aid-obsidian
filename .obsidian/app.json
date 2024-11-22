@@ -1,0 +1,16 @@
+{
+  "livePreview": false,
+  "propertiesInDocument": "visible",
+  "newFileLocation": "root",
+  "userIgnoreFilters": [
+    "data/"
+  ],
+  "useTab": false,
+  "showLineNumber": true,
+  "newLinkFormat": "absolute",
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "./media",
+  "defaultViewMode": "preview"
+}

@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "complete": "checkbox",
+    "template_rev": "number",
+    "created": "date",
+    "c": "multitext",
+    "parents": "multitext",
+    "completion_date": "date",
+    "jobid": "multitext"
+  }
+}
