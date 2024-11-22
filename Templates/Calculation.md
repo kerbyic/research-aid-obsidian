@@ -90,7 +90,7 @@ id: "copypath"
 style: default
 actions:
   - type: inlineJS
-    code: "navigator.clipboard.writeText(app.vault.adapter.getBasePath() + '<% calcFolder %>')"
+    code: "navigator.clipboard.writeText(app.vault.adapter.getBasePath() + '/<% calcFolder %>')"
 ```
 
 ```meta-bind-button
